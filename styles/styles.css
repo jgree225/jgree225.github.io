@@ -3,3 +3,16 @@ h1 {
     font-weight: 800;
     text-align: center;
 }
+
+img {
+    background-color: green;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer {
+    margin: 30px;
+    border: 5pxsolid black;
+}
