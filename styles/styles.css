@@ -2,17 +2,23 @@ h1 {
     width: 100%;
     font-weight: 800;
     text-align: center;
+    color: rgb(220, 220, 220);
 }
 
-img {
-    background-color: green;
+.body-div {
+    border: 10px solid maroon;
 }
 
 a {
     text-decoration: none;
 }
 
-.footer {
-    margin: 30px;
-    border: 5pxsolid black;
+#footer {
+    text-align: center;
+    vertical-align: bottom;
+    margin-top: 100%;
+}
+
+* {
+    background-color:rgb(147, 139, 151);
 }
