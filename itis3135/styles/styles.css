@@ -1,0 +1,29 @@
+#grad-pic {
+    max-width: 300px;
+    max-height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.img-caption {
+    font-style: italic;
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(28, 132, 28);
+}
+
+#signature {
+    font-style: italic;
+}
+
+.sign {
+    color:rgb(12, 55, 40);
+}
